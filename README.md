@@ -59,3 +59,15 @@ Mapeamento focado na porta 21 utilizando o motor de scripts do Nmap para auditor
 Com a correta interpretação dos pacotes e o uso estratégico das flags do Nmap para contornar as restrições do firewall, todas as etapas de reconhecimento foram validadas e concluídas com sucesso. O laboratório provou a importância de conhecer a fundo os protocolos de rede para identificar vulnerabilidades reais de configuração (como o acesso FTP exposto).
 
 ![Laboratório Concluído com Sucesso](resultado.png)
+
+---
+
+## 👨‍💻 Sobre o Autor
+
+* **Nome:** Wesley
+* **Perfil:** Profissional técnico e soldador com mentalidade voltada à resolução de problemas e precisão. 
+* **Atuação em Segurança Cibernética:** Estudante autodidata focado em Segurança da Informação, Redes e Testes de Penetração (Pentesting) durante o tempo livre.
+* **Objetivo:** Registrar laboratórios práticos e evoluções teóricas para construir uma base sólida em análise de vulnerabilidades, auditorias de infraestrutura e segurança
+ defensiva.
+
+--- 
